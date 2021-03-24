@@ -1,1 +1,1 @@
-This is new doc
+This is master branch.
